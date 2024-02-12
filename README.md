@@ -10,14 +10,14 @@
 
 <h3>Proyectos:</h3>
 
-- [x] :anger: Script monitorización usuarios administradores locales con PSExcel.
-- [x] :anger: Gestión de IOCs con API de VirusTotal.
+- [x] :anger: Administradores :open_file_folder: Script monitorización usuarios administradores locales con PSExcel.
+- [x] :anger: VT :open_file_folder: APIGestión de IOCs con API de VirusTotal.
 - [ ] :anger: Procesos APIs varias.
 
 
 <h3>Ejecutar:</h3>
 
-  - :one: Admins:
+  - :one: Administradores:
 
 ```
 Install-module ImportExcel -Repository PSGallery -force
