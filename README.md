@@ -31,5 +31,5 @@ Install-Module -Name PSExcel -Force -Scope CurrentUser
 ```
 install api
 
-.\iocs.py
+.\cymulate1.ps1
 ```
