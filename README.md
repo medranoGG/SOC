@@ -11,7 +11,7 @@
 <h3>Proyectos:</h3>
 
 - [x] :anger: Administradores :open_file_folder: Script monitorización usuarios administradores locales con PSExcel.
-- [x] :anger: VT :open_file_folder: APIGestión de IOCs con API de VirusTotal.
+- [x] :anger: VT-API :open_file_folder: Gestión de IOCs con API de VirusTotal.
 - [ ] :anger: Procesos APIs varias.
 
 
