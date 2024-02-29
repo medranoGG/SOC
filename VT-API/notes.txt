@@ -1,0 +1,27 @@
+
+1 . Tool:
+    https://virustotal.github.io/vt-cli/
+
+2.  Go to VirusTotal, login ang get API-KEY
+    Format -> 69************************************************************0a
+
+2.  Install (Windows):
+    - Open cmd (Admin Permissions)
+    - winget install VirusTotal.vt-cli
+
+3.  Check:
+    vt init --apikey -k 
+
+4.  Run:
+    PS C:\Users\API_VT> .\cymulate.ps1
+
+    ██╗   ██╗██╗██████╗ ██╗   ██╗███████╗████████╗ ██████╗ ████████╗ █████╗ ██╗
+    ██║   ██║██║██╔══██╗██║   ██║██╔════╝╚══██╔══╝██╔═══██╗╚══██╔══╝██╔══██╗██║
+    ██║   ██║██║██████╔╝██║   ██║███████╗   ██║   ██║   ██║   ██║   ███████║██║
+    ╚██╗ ██╔╝██║██╔══██╗██║   ██║╚════██║   ██║   ██║   ██║   ██║   ██╔══██║██║
+     ╚████╔╝ ██║██║  ██║╚██████╔╝███████║   ██║   ╚██████╔╝   ██║   ██║  ██║███████╗
+      ╚═══╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝
+
+    VirusTotal Command-Line Interface: Threat Intelligence at your fingertips.
+    >
+    
